@@ -1,0 +1,2 @@
+# Data-Science-Course-2020---365-Careers
+This repository contains my machine learning programs that I have learned from udemy (The Data Science Course 2020: Complete Data Science Bootcamp - 365 Careers). You can learn about Linear Regression, Logistic Regression, K-Means and Dendogram Clustering, Basic Tensor Flow and the last is how to make module and try to integrate it. I have made notes in each line of code, hope that can make you easier to understand the code.
