@@ -21,4 +21,4 @@
 
 **Project Overview:**
 
-<p align="center"><img src="Note/flow.png" width=70%></p>
+<p align="center"><img src="Note/flow.png" width=100%></p>
